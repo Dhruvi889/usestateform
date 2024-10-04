@@ -1,0 +1,134 @@
+.tablemain {
+    border: none;
+    padding: 20px;
+    background-color: rgb(120, 182, 185);
+    color: white;
+    border-radius: 10px;
+}
+
+.tbmain {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.tablebodyb {
+    border: 1px solid black;
+    padding: 10px;
+    font-weight: 700;
+    text-align: center;
+    background-color: rgb(69, 106, 117);
+    border: none;
+    border-radius: 10px;
+}
+
+.tablebodyb3 {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.tablebodyb1 {
+    border: 1px solid black;
+    padding: 13px;
+    background-color: red;
+    color: white;
+
+}
+
+.tablebodyb2 {
+    border: 1px solid black;
+    padding: 13px;
+    background-color: green;
+    color: white;
+
+}
+
+.mainformb {
+    border: 2px solid green;
+    padding: 30px;
+}
+
+.form2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.aab {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.inputwid {
+    width: 300px;
+    padding: 15px;
+    border: 1px solid rgb(135, 156, 202);
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.inputwidsea {
+    width: 150px;
+    padding: 15px;
+
+}
+
+.subbtn {
+    background-color: antiquewhite;
+    border: none;
+    padding: 18px;
+    width: 130px;
+    border-radius: 10px;
+}
+
+#deletes {
+    width: 200px;
+}
+
+.seadiv {
+    display: flex;
+    gap: 20px;
+}
+
+.tdborder {
+    border: 1px solid black;
+}
+
+.btn09 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.sortselected {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.mainbtns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.checked {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.have {
+    background-color: burlywood;
+    padding: 10px;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+}
